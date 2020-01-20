@@ -7,7 +7,7 @@ namespace telegramapp
     /// <summary>
     /// this represents a telegram account
     /// where you can chat or call
-    /// to your friends
+    /// to your friends or familys
     /// </summary>
     class account
     {
